@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Bisnis Angkutan Laut",
+  "description": "Sistem manajemen operasional angkutan laut PT JAPARA MARITIM NUSANTARA, armada kapal niaga, jadwal pelayaran, dan manifes kargo terintegrasi dengan basis data persisten real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
